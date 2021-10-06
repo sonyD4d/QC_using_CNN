@@ -1,5 +1,7 @@
 # Quality Inspection for casting product
 
+## Notebook link
+https://www.kaggle.com/sonyd4d/qc-using-cnn/notebook
 ## Overview
 * Defects are an unwanted thing in casting industry. For removing this defective product all industry have their quality inspection department. 
 * But,the main problem is this inspection process is carried out manually and it is a very time-consuming process and due to human involvement.
